@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "5.0.0",
   "url": "https://pan.baidu.com/s/5mXP29dF_tfdu4ZQLko2UWQ",
-  "notes": "修复个别行星视野不生效；跨阵营建造支持任意阵营。"
+  "notes": "测试用版本，仅用于验证「检查更新」弹窗。"
 }
